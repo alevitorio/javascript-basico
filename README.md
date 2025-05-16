@@ -107,11 +107,6 @@ typeof {};        // "object"
 typeof [];        // "object" (sim! arrays são objetos)
 typeof function(){}; // "function"
 ```
-
----
-
-Posso inserir essa seção **"Tipos Primitivos e Não Primitivos"** no seu `README.md` dentro do capítulo “Variáveis, Tipos e Operadores”. Deseja que eu atualize o arquivo e gere a versão final em PDF?
-
 ### ➕ Operadores
 
 - Aritméticos: `+`, `-`, `*`, `/`, `%`
