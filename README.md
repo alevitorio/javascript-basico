@@ -55,15 +55,62 @@ const idade = 18;     // constante, não pode mudar
 var cidade = "São Paulo"; // forma antiga, evite
 ```
 
-### 🧠 Tipos de Dados
+Ótimo ponto! Em JavaScript, os **tipos de dados** são classificados em duas grandes categorias:
 
-| Tipo        | Exemplo               |
-|-------------|------------------------|
-| `string`    | `"Olá"`, `'Mundo'`     |
-| `number`    | `10`, `3.14`, `-5`     |
-| `boolean`   | `true`, `false`        |
-| `undefined` | valor não definido     |
-| `null`      | valor nulo (intencional)|
+---
+
+## 🧠 Tipos de Dados em JavaScript
+
+### 🔹 Tipos **Primitivos**
+
+São **imutáveis**, simples e armazenam um único valor.
+
+| Tipo        | Descrição                      | Exemplo                 |
+| ----------- | ------------------------------ | ----------------------- |
+| `string`    | Texto                          | `"Olá"`                 |
+| `number`    | Números inteiros ou decimais   | `42`, `3.14`            |
+| `boolean`   | Verdadeiro ou falso            | `true`, `false`         |
+| `undefined` | Valor ainda não definido       | `let x; // undefined`   |
+| `null`      | Valor nulo intencionalmente    | `let y = null;`         |
+| `bigint`    | Números inteiros muito grandes | `12345678901234567890n` |
+| `symbol`    | Identificadores únicos         | `Symbol("id")`          |
+
+---
+
+### 🔸 Tipos **Não Primitivos** (também chamados de **Referência**)
+
+São **mutáveis**, podem conter várias informações e são armazenados por referência (endereço na memória).
+
+| Tipo       | Descrição                    | Exemplo                                |
+| ---------- | ---------------------------- | -------------------------------------- |
+| `object`   | Coleção de pares chave-valor | `{ nome: "João", idade: 18 }`          |
+| `array`    | Lista ordenada de valores    | `[1, 2, 3]` ou `["a", "b"]`            |
+| `function` | Bloco reutilizável de código | `function soma(a, b) { return a + b }` |
+
+---
+
+### ✅ Comparando:
+
+```js
+let nome = "ETEC"; // primitivo
+let aluno = { nome: "ETEC", curso: "PW I" }; // não primitivo
+```
+### 🧪 Dica de verificação:
+
+Você pode usar `typeof` para verificar o tipo de uma variável:
+
+```js
+typeof 10;        // "number"
+typeof "Oi";      // "string"
+typeof true;      // "boolean"
+typeof {};        // "object"
+typeof [];        // "object" (sim! arrays são objetos)
+typeof function(){}; // "function"
+```
+
+---
+
+Posso inserir essa seção **"Tipos Primitivos e Não Primitivos"** no seu `README.md` dentro do capítulo “Variáveis, Tipos e Operadores”. Deseja que eu atualize o arquivo e gere a versão final em PDF?
 
 ### ➕ Operadores
 
