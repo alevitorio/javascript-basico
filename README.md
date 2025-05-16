@@ -192,6 +192,24 @@ while (n > 0) {
 
 ---
 
+## 📖 Referências Oficiais
+
+Quer ir além? Aqui estão fontes confiáveis para aprofundar seus estudos em JavaScript:
+
+- [MDN - Guia de JavaScript (Mozilla)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
+- [JavaScript.info - Guia Completo (Inglês)](https://javascript.info/)
+- [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
+- [MDN - Variáveis (var, let, const)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var)
+- [MDN - Tipos de dados](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
+- [MDN - Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [MDN - if...else](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
+- [MDN - switch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch)
+- [MDN - for](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for)
+- [MDN - while / do...while](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while)
+- [MDN - Console Web API](https://developer.mozilla.org/pt-BR/docs/Web/API/console)
+
+---
+
 ## 🏁 Conclusão
 
 Você já tem a base! 🧱
