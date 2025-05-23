@@ -216,6 +216,4 @@
 
     * Mostre opções com `prompt()` até digitar “sair”.
 
----
 
-Se quiser, posso gerar um **README com todos esses exercícios formatados** ou um **PDF** para aplicar em sala de aula. Deseja que eu monte?
