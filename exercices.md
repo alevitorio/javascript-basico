@@ -1,7 +1,3 @@
-Perfeito! Aqui está uma lista com **15 exercícios de JavaScript**, organizados em **níveis de dificuldade** (Fácil, Médio, Difícil) e **por assunto**: Fundamentos, Decisão e Repetição.
-
----
-
 ## 🧪 Exercícios JavaScript – ETEC PW I
 
 📚 *Divididos por assunto e nível de dificuldade*
