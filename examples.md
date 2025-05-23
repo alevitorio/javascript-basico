@@ -1,7 +1,3 @@
-Claro! Aqui vão **10 exercícios de JavaScript** feitos especialmente para alunos do ensino técnico que **já aprenderam lógica com Python**. Os exercícios estão organizados por dificuldade crescente, são bem contextualizados e com linguagem acessível. Ideal para fazer em sala de aula ou como atividade prática. ✨
-
----
-
 ## 🧠 Exercícios JavaScript – Programação Web I – ETEC
 
 ### 🟢 **Exercícios Básicos (Fundamentos e Decisão)**
